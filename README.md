@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">👋🏻 Hi, I'm Michele!</h1>
 👨🏻‍🎓 I have a BSc in Computer Engineering and I'm currently pursuing a MSc in AI & Robotics.<br>  
-✨ I'm passionate about exploring **AI and Robotics solutions** to help people and planet.
+✨ I'm passionate about exploring <b>AI and Robotics solutions</b> to help people and planet.
 
 <h3 align="left">🌟 About Me</h3>
 <p align="left">
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌱 What's I'm working on</h3>
 <p align="left">
-  I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision**
 </p>
 
 <h3 align="left">💻 Skills and Tools</h3>
