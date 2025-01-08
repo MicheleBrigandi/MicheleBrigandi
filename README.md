@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Michele</h1>
-<h3 align="center">A Computer Engineer from Italy</h3>
-
+<h1 align="center">👋🏻 Hi, I'm Michele!</h1>
+<h3 align="center">MSc Student in AI & Robotics</h3>
+- 👨🏻‍🎓 I have a BSc in Computer Engineering and I'm currently pursuing a MSc in AI & Robotics.
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence, Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
