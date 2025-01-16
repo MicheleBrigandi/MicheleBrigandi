@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with me
 
-- **LinkedIn:** 
+- **LinkedIn:** [Michele's LinkedIn](https://www.linkedin.com/in/michele-brigandì)
