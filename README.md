@@ -35,14 +35,14 @@ Here are some ideas to get you started:
     <h4 align="left">Programming Languages:</h4>
     <table align="left">
       <tr>
-        <td align="center" width="100">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python
+        <td align="center" width="80">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/><br>Python
         </td>
-        <td align="center" width="100">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/><br>C++
+        <td align="center" width="80">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/><br>C++
         </td>
-        <td align="center" width="100">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/><br>Java
+        <td align="center" width="80">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/><br>Java
         </td>
       </tr>
     </table>
