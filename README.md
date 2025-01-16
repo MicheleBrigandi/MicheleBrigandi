@@ -46,19 +46,19 @@ Here are some ideas to get you started:
         </td>
       </tr>
     </table>
-  </li>
+  </li><br>
   <li>
     <h4 align="left" style="clear: left;">Libraries & Frameworks:</h4>
     <table align="left">
       <tr>
-        <td align="center" width="100">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/><br>Scikit-learn
+        <td align="center" width="80">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="30" height="30"/><br>Scikit-learn
         </td>
-        <td align="center" width="100">
-          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/><br>PyTorch
+        <td align="center" width="80">
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="30" height="30"/><br>PyTorch
         </td>
-        <td align="center" width="100">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas
+        <td align="center" width="80">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30"/><br>Pandas
         </td>
       </tr>
     </table>
