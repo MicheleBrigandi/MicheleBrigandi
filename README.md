@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 
 # 👋🏻 Hi, I'm Michele!
-
-👨🏻‍🎓 I have a BSc in Computer Engineering and I'm currently pursuing a MSc in AI & Robotics.  
+  
 ✨ I'm passionate about exploring **AI and Robotics solutions** to help people and planet.
 
-### 🌟 About Me
+### 👨🏻‍🎓 Education
+
+- **BSc** in **Computer Engineering** (2021-2024)
+- **MSc** in **AI & Robotics** (2024-now)
 
 ### 💡 Interests
 
@@ -26,7 +28,9 @@ Here are some ideas to get you started:
 
 ### 💻 Skills and Tools
 
-- **Programming Languages:**
-- **Libraries & Frameworks**
+- **Programming Languages:** Python, C++, Java
+- **Libraries & Frameworks:** Scikit-learn, PyTorch, Pandas
 
 ### 📫 Connect with me
+
+- **LinkedIn:** 
