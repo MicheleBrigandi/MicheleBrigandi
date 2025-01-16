@@ -30,19 +30,34 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">💻 Skills and Tools</h3>
-<h4 align="left">Programming Languages</h4>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <span>Python</span><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <span>C++</span><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <span>Java</span>
-</div>
+<ul>
+  <li>
+    <h4 align="left">Programming Languages</h4>
+    <div align="left">
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
+        <span style="font-size: 18px;">Python</span>
+      </div>
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
+        <span style="font-size: 18px;">C++</span>
+      </div>
+      <div style="display: flex; align-items: center; margin-bottom: 5px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
+        <span style="font-size: 18px;">Java</span>
+      </div>
+    </div>
+  </li>
 
-<h4 align="left">Libraries & Frameworks</h4>
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> <span>Scikit-learn</span><br>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> <span>PyTorch</span><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <span>Pandas</span>
-</div>
+  <li>
+    <h4 align="left">Libraries & Frameworks</h4>
+    <div align="left">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> <span>Scikit-learn</span><br>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> <span>PyTorch</span><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <span>Pandas</span>
+    </div>
+  </li>
+</ul>
 
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
