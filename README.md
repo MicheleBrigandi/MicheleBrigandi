@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋🏻 Hi, I'm Michele!
   
-✨ I'm passionate about exploring **AI and Robotics solutions** to help people and planet.
+✨ I'm a Computer Engineer passionate about exploring **AI and Robotics solutions** to help people and planet.
 
 ### 👨🏻‍🎓 Education
 
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - **MSc** in **AI & Robotics** (2024-now)
 
 ### 💡 Interests
+
+- **Neurorobotics** and **Brain Network Analysis**
 
 ### 🌱 What's I'm working on
 
