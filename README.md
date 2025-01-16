@@ -13,44 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">👋🏻 Hi, I'm Michele!</h1>
-👨🏻‍🎓 I have a BSc in Computer Engineering and I'm currently pursuing a MSc in AI & Robotics.<br>  
-✨ I'm passionate about exploring <b>AI and Robotics solutions</b> to help people and planet.
+# 👋🏻 Hi, I'm Michele!
 
-<h3 align="left">🌟 About Me</h3>
-<p align="left">
-</p>
+👨🏻‍🎓 I have a BSc in Computer Engineering and I'm currently pursuing a MSc in AI & Robotics.  
+✨ I'm passionate about exploring **AI and Robotics solutions** to help people and planet.
 
-<h3 align="left">💡 Interests</h3>
-<p align="left">
-</p>
+### 🌟 About Me
 
-<h3 align="left">🌱 What's I'm working on</h3>
-<p align="left">
-</p>
+### 💡 Interests
 
-<h3 align="left">💻 Skills and Tools</h3>
-<ul>
-  <li>
-    <h4 align="left">Programming Languages</h4>
-    <div align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <span>Python</span><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <span>C++</span><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <span>Java</span>
-    </div>
-  </li>
+### 🌱 What's I'm working on
 
-  <li>
-    <h4 align="left">Libraries & Frameworks</h4>
-    <div align="left">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> <span>Scikit-learn</span><br>
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> <span>PyTorch</span><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <span>Pandas</span>
-    </div>
-  </li>
-</ul>
+### 💻 Skills and Tools
 
-<h3 align="left">📫 Connect with me</h3>
-<p align="left">
-</p>
+- **Programming Languages:**
+- **Libraries & Frameworks**
 
+### 📫 Connect with me
