@@ -34,17 +34,17 @@ Here are some ideas to get you started:
   <li>
     <h4 align="left">Programming Languages</h4>
     <div align="left">
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
-        <span style="font-size: 18px;">Python</span>
+      <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+        <span style="font-size: 18px; line-height: 1;">Python</span>
       </div>
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
-        <span style="font-size: 18px;">C++</span>
+      <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+        <span style="font-size: 18px; line-height: 1;">C++</span>
       </div>
-      <div style="display: flex; align-items: center; margin-bottom: 5px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/>
-        <span style="font-size: 18px;">Java</span>
+      <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+        <span style="font-size: 18px; line-height: 1;">Java</span>
       </div>
     </div>
   </li>
