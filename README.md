@@ -29,12 +29,15 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
+![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+
+
 <h3 align="left">💻 Skills and Tools</h3>
 <ul>
   <li>
     <h4 align="left">Programming Languages</h4>
     <div align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="float:left" width="40" height="40"/> <span>Python</span><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <span>Python</span><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <span>C++</span><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <span>Java</span>
     </div>
