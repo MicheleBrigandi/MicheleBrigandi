@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-![Python Icon](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="40" height="40" style="margin-right: 10px;">
+  <span style="font-size: 24px;">Python</span>
+</div>
 
 <h3 align="left">💻 Skills and Tools</h3>
 <ul>
