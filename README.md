@@ -29,11 +29,6 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Icon" width="40" height="40" style="vertical-align: middle;"/>
-  <span style="vertical-align: middle;">Python</span>
-</p>
-
 <h3 align="left">💻 Skills and Tools</h3>
 <ul>
   <li>
