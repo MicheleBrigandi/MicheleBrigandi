@@ -35,9 +35,9 @@ Beyond my current research, I have practical experience in software engineering 
 
 ### 🛠 Tech Stack
 
-* **[span_6](start_span)Languages:** Python, C++, Java, SQL, MATLAB[span_6](end_span).
-* **[span_7](start_span)AI & Data:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, NetworkX[span_7](end_span).
-* **[span_8](start_span)Dev Tools:** Git, Docker, Jupyter[span_8](end_span).
+* **Languages:** Python, C++, Java, SQL, MATLAB.
+* **AI & Data:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, NetworkX.
+* **Dev Tools:** Git, Docker, Jupyter.
 
 ---
 
