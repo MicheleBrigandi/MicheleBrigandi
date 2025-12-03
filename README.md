@@ -1,7 +1,7 @@
-# Michele Brigandì
+# Hi, I'm Michele!
 
-MSc student in **Computer Engineering (AI & Robotics)** at the University of Padova.
-My academic and research focus is on applying **Machine Learning, Deep Learning, and RL** to complex scenarios, with a specific interest in unstructured biological data and structured networks.
+I’m an MSc student in **Computer Engineering (AI & Robotics)** at the University of Padova.
+My focus is on applying **Machine Learning, Deep Learning, and Reinforcement Learning** to complex scenarios, with particular interest in unstructured biological data and network-structured information.
 
 ---
 
@@ -9,7 +9,7 @@ My academic and research focus is on applying **Machine Learning, Deep Learning,
 
 * **MSc in Computer Engineering** | *University of Padova* (Current)
     * **Upcoming Research Thesis:** Visiting Researcher at **Ghent University & UZ Ghent Hospital** 🇧🇪.
-    * **Topic:** Deep Learning for Personalized Vagus Nerve Stimulation (VNS) in epilepsy patients. Focus on **EEG signal analysis** and time-series processing.
+    * **Topic:** Machine Learning for personalized Vagus Nerve Stimulation (VNS) in epilepsy patients. 
 
 * **BSc in Computer Engineering** | *University of Padova* (2021 - 2024)
     * **Thesis:** Design of REST Web APIs for automated e-commerce management.
@@ -17,28 +17,28 @@ My academic and research focus is on applying **Machine Learning, Deep Learning,
 ---
 
 ### 🔬 Current Focus: Complex Data Analysis
-I am currently specializing in architectures for non-standard data types:
+I'm currently working on models and architectures for non-standard data types:
 
-* **Unstructured Signals:** Processing biological data (EEG, ECG, Inertial, Audio) using Deep Learning models.
-* **Structured Data:** Analyzing Brain Networks and complex connectivity using Graph Neural Networks (GNNs) and Graph Theory.
+* **Unstructured Signals:** Processing biological data (EEG, ECG, inertial data, audio) using deep learning methods.
+* **Structured Data:** Brain network analysis and connectivity modeling using Graph Neural Networks (GNNs) and Graph Theory.
 
 ---
 
 ### 💻 Technical Projects & Experience
-Beyond my current research, I have practical experience in software engineering and other AI domains:
+Alongside my research, I’ve worked on projects across AI, robotics, and software engineering:
 
-* **Generative AI:** Reasoning systems based on LLMs and prompt engineering (Neura Robotics Challenge Finalist).
-* **Computer Vision:** Satellite image segmentation using PyTorch and YOLO (Cassini Mission Project).
+* **Generative AI:** LLM-based reasoning systems for humanoid robots (Neura Robotics Challenge Finalist).
+* **Computer Vision:** Cloud segmentation on Titan satellite images using PyTorch and YOLO (Cassini Mission Project).
 * **Backend Engineering:** Python backend development and REST API implementation (Internship at Sigea s.r.l.).
 
 ---
 
 ### 🛠 Tech Stack
 
-* **Languages:** Python, C++, Java, SQL, MATLAB.
-* **AI & Data:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, NetworkX.
-* **Dev Tools:** Git, Docker, Jupyter.
+* **Languages:** Python, C++, Java, SQL, MATLAB
+* **AI & Data:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, NetworkX
+* **Dev Tools:** Git, Docker, Jupyter, ROS2
 
 ---
 
-[LinkedIn](INSERISCI_TUO_LINK) | [Email](mailto:michelebrigandi2002@gmail.com)
+[LinkedIn](http://linkedin.com/in/michele-brigandì) | [Email](mailto:michelebrigandi2002@gmail.com)
