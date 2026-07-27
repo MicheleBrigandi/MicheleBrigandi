@@ -1,44 +1,32 @@
 # Hi, I'm Michele!
 
-I’m an MSc student in **Computer Engineering (AI & Robotics)** at the University of Padova.
-My focus is on applying **Machine Learning, Deep Learning, and Reinforcement Learning** to complex scenarios, with particular interest in unstructured biological data and network-structured information.
+**Data Science & Machine Learning | MSc Computer Engineering (AI & Robotics) @ UniPd**
 
----
-
-### 🎓 Education & Research
-
-* **MSc in Computer Engineering** | *University of Padova* (Current)
-    * **Upcoming Research Thesis:** Visiting Researcher at **Ghent University & UZ Ghent Hospital** 🇧🇪.
-    * **Topic:** Machine Learning for personalized Vagus Nerve Stimulation (VNS) in epilepsy patients. 
-
-* **BSc in Computer Engineering** | *University of Padova* (2021 - 2024)
-    * **Thesis:** Design of REST Web APIs for automated e-commerce management.
-
----
-
-### 🔬 Current Focus: Complex Data Analysis
-I'm currently working on models and architectures for non-standard data types:
-
-* **Unstructured Signals:** Processing biological data (EEG, ECG, inertial data, audio) using deep learning methods.
-* **Structured Data:** Brain network analysis and connectivity modeling using Graph Neural Networks (GNNs) and Graph Theory.
-
----
-
-### 💻 Technical Projects & Experience
-Alongside my research, I’ve worked on projects across AI, robotics, and software engineering:
-
-* **Generative AI:** LLM-based reasoning systems for humanoid robots (Neura Robotics Challenge Finalist).
-* **Computer Vision:** Cloud segmentation on Titan satellite images using PyTorch and YOLO (Cassini Mission Project).
-* **Backend Engineering:** Python backend development and REST API implementation (Internship at Sigea s.r.l.).
+I'm a Master's student in Computer Engineering at the University of Padova, specialising in AI & Robotics. I enjoy applying machine learning, deep learning, and reinforcement learning to solve complex real-world problems, with a particular interest in health tech and space applications.
 
 ---
 
 ### 🛠 Tech Stack
 
-* **Languages:** Python, C++, Java, SQL, MATLAB
-* **AI & Data:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, NetworkX
-* **Dev Tools:** Git, Docker, Jupyter, ROS2
+* **Languages:** Python, C++, SQL
+* **AI & Data:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
 
 ---
 
-[LinkedIn](http://linkedin.com/in/michele-brigandì) | [Email](mailto:michelebrigandi2002@gmail.com)
+### 🔬 Featured Projects
+
+Here is a selection of my main projects. *Feel free to explore the repositories for the source code and deeper technical breakdowns.*
+
+**[Unsupervised ECG anomaly detection for wearable devices](link_al_repo)**
+* *Overview:* A pipeline for unsupervised anomaly detection in ECG signals, specifically designed for resource-constrained wearable devices. It evaluates multiple autoencoder architectures (from CNNs to TCNs) under a strict inter-patient protocol.
+* *Tech:* Python, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Streamlit.
+* *Results:* Identified a highly efficient CNN-based configuration that achieved an AUROC of 0.991, outperforming larger architectures while requiring 189 times fewer parameters.
+
+**[Acrobot swing-up and stabilisation with Deep Reinforcement Learning](link_al_repo)**
+* *Overview:* An implementation of continuous control for an underactuated two-link Acrobot. The project compares two actor-critic algorithms (DDPG and SAC) against a heuristic baseline to swing up and stabilise the system.
+* *Tech:* Python, PyTorch.
+* *Results:* Both reinforcement learning agents successfully swung up and stabilised the Acrobot in under 0.8 seconds, significantly outperforming the standard heuristic controller.
+
+---
+
+📫 **Let's connect:** Feel free to reach out via [email](mailto:michelebrigandi2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/michelebrigandi/)! 
