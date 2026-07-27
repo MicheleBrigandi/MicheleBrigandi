@@ -2,14 +2,14 @@
 
 **Data Science & Machine Learning | MSc Computer Engineering (AI & Robotics) @ UniPd**
 
-I'm a Master's student in Computer Engineering at the University of Padova, specialising in AI & Robotics. I enjoy applying machine learning, deep learning, and reinforcement learning to solve complex real-world problems, with a particular interest in health tech and space applications.
+I'm a Master's student in Computer Engineering at the University of Padua, specialising in AI & Robotics. I enjoy applying machine learning, deep learning, and reinforcement learning to solve complex real-world problems, with a particular interest in health tech and space applications.
 
 ---
 
 ### 🛠 Tech Stack
 
 * **Languages:** Python, C++, SQL
-* **AI & Data:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib
+* **AI & Data:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Matplotlib
 
 ---
 
