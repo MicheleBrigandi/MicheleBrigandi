@@ -19,7 +19,7 @@ Here is a selection of my main projects. *Feel free to explore the repositories 
 
 **[Unsupervised ECG anomaly detection for wearable devices](https://github.com/MicheleBrigandi/wearable-ecg-anomaly.git)**
 * *Overview:* A pipeline for unsupervised anomaly detection in ECG signals, specifically designed for resource-constrained wearable devices. It evaluates multiple autoencoder architectures (from CNNs to TCNs) under a strict inter-patient protocol.
-* *Tech:* Python, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, Streamlit.
+* *Tech:* Python, TensorFlow, scikit-learn, pandas, NumPy, Matplotlib, Streamlit.
 * *Results:* Identified a highly efficient CNN-based configuration that achieved an AUROC of 0.991, outperforming larger architectures while requiring 189 times fewer parameters.
 
 **[Acrobot swing-up and stabilisation with Deep Reinforcement Learning](https://github.com/MicheleBrigandi/acrobot-swingup.git)**
